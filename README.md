@@ -29,6 +29,7 @@ When developing locally, you can start the app by running:
 
 ```shell
 $ npm start
+# npx expo start
 ```
 
 ## Host the Code
